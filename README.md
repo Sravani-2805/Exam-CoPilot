@@ -1,9 +1,5 @@
 # ExamPilot — Multi-Agent Adaptive Learning & Exam Prep Platform
 
-This repo is a **working MVP scaffold** implementing Phase 1 (Core Product) and
-Phase 2 (Agentic Intelligence) of the ExamPilot blueprint, with clear extension
-points for Phase 3 (RAG / Knowledge Graph / Mock Exams) and Phase 4
-(Calendar / Notion / Voice / What-if Simulator).
 
 ## What's actually implemented (runs today)
 - FastAPI backend with SQLAlchemy models for the full data model (users, exams,
